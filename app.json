@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "projetoCRUD",
+    "slug": "projetoCRUD",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "projetoCRUD"
+}
